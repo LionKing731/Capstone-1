@@ -1,0 +1,15 @@
+body{
+    font-size: 3vw;
+    padding: 1rem;
+}
+
+.store .content{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
