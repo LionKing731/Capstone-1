@@ -138,6 +138,10 @@ h1{
     color: #244275;
     text-shadow: 0.5px 3px #F589D0;
 }
+.recent-searches{
+    display: flex;
+    justify-content: space-around;
+}
 
 footer{
     background-color: #F589D0;
